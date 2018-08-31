@@ -10,4 +10,4 @@
      CONF_SERV_PORT=  
 ````  
 - 启动服务 php start.php start
-配置自动加载到框架内直接使用 env(KEY,DEFAULT) 就可以获取配置内容
+- 配置自动加载到框架内直接使用 env(KEY,DEFAULT) 就可以获取配置内容
