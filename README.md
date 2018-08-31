@@ -7,7 +7,7 @@
 
 ### 验证项目
 
-- 注册 provider => ConfigurationServiceProvider.php
+- laravel(lumen)项目中注册provider => ConfigurationServiceProvider.php
 - 配置验证服务 (.env)   地址和端口 
 
 ````  
